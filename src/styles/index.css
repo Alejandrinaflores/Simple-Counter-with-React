@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.digits {
+    text-align: center;
+    font-size: 100px;
+    margin: 1%;
+    letter-spacing: 30px;
+}
+
+.fa-regular {
+    margin-top: 25px;
+    color: white;
+
+}
